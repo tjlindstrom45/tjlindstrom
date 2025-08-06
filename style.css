@@ -11,11 +11,11 @@ body {
 
 /* Navigation bar */
 nav {
-  background-color: #ffffff;
+  background-color: #fafafa;
   padding: 10px;
   text-align: left;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
 }
 
 nav a {
